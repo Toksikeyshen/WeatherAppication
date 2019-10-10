@@ -1,0 +1,24 @@
+PODS:
+  - Dropper (2.7.6)
+  - OAuthSwift (1.2.2)
+  - ReachabilitySwift (4.3.1)
+
+DEPENDENCIES:
+  - Dropper (~> 2.7)
+  - OAuthSwift (~> 1.2.0)
+  - ReachabilitySwift
+
+SPEC REPOS:
+  trunk:
+    - Dropper
+    - OAuthSwift
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Dropper: 52a020beb6fef2e4b1d55447f17099e5776954ef
+  OAuthSwift: 27b34fe80b76b67cd8f45571e0be2432bc9f6de1
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+
+PODFILE CHECKSUM: 5a18e394f699aab2ca99a76a82d7dbd98506df0a
+
+COCOAPODS: 1.8.3
